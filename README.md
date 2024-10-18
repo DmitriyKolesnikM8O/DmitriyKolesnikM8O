@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning MAI education
 - 🆔 kolesnik982011@gmail.com
 - 🆔 Telegram: @Frizgy
+- 🍌 Leetcode( Nothing interesting(( ): https://leetcode.com/u/ProfessionalFromRussia/
 
 <!---
 DmitriyKolesnikM8O/DmitriyKolesnikM8O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
