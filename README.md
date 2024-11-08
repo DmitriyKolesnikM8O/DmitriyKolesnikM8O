@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @DmitriyKolesnikM8O
+<h1 align="center">Hi there, I'm <b>Dmitriy</b> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student in Moscow Aviation Institute 🇷🇺</h3>
+
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MAI education
 - 🆔 kolesnik982011@gmail.com
