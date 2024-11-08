@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, I'm <b>Dmitriy</b> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student in Moscow Aviation Institute 🇷🇺</h3>
+
+
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 
 - 👀 I’m interested in programming, backend
