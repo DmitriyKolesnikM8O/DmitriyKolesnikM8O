@@ -15,11 +15,11 @@
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-- 👀 I’m interested in programming, backend
-- 🌱 I’m currently learning Golang, C++ and etc.
+- 👀 interested in programming, backend, computer science, development
+- 🌱 currently learning Golang, C++, Postgres, Microservices and etc.
 - 🆔 kolesnik982011@gmail.com
 - 🆔 Telegram: @Frizgy
-- 🍌 Leetcode( Nothing interesting(( ): https://leetcode.com/u/ProfessionalFromRussia/
+- 🍌 Leetcode: https://leetcode.com/u/ProfessionalFromRussia/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DmitriyKolesnikM8O)](https://github.com/ryo-ma/github-profile-trophy)
 
