@@ -26,20 +26,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyKolesnikM8O)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKolesnikM8O&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyKolesnikM8O&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyKolesnikM8O&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyKolesnikM8O&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitriyKolesnikM8O&theme=solarized_dark)
 <!---
 DmitriyKolesnikM8O/DmitriyKolesnikM8O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
