@@ -23,8 +23,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DmitriyKolesnikM8O)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyKolesnikM8O&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyKolesnikM8O&width=300&height=150)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 DmitriyKolesnikM8O/DmitriyKolesnikM8O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
