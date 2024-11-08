@@ -16,7 +16,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 - 👀 I’m interested in programming, backend
-- 🌱 I’m currently learning MAI education
+- 🌱 I’m currently learning Golang, C++ and etc.
 - 🆔 kolesnik982011@gmail.com
 - 🆔 Telegram: @Frizgy
 - 🍌 Leetcode( Nothing interesting(( ): https://leetcode.com/u/ProfessionalFromRussia/
@@ -30,19 +30,18 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyKolesnikM8O)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Карточка профиля: 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitriyKolesnikM8O&theme=solarized_dark)
 
-Статистика языков в коммитах:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmitriyKolesnikM8O&theme=solarized_dark)
 
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DmitriyKolesnikM8O&theme=solarized_dark)
 
-Статистика профиля:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmitriyKolesnikM8O&theme=solarized_dark)
 
-Данные по коммитам за сутки:
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmitriyKolesnikM8O&theme=solarized_dark)
 <!---
 DmitriyKolesnikM8O/DmitriyKolesnikM8O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
