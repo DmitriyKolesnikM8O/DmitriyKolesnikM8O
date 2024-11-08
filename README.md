@@ -21,9 +21,6 @@
 - 🆔 Telegram: @Frizgy
 - 🍌 Leetcode( Nothing interesting(( ): https://leetcode.com/u/ProfessionalFromRussia/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyKolesnikM8O)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=DmitriyKolesnikM8O)](https://github.com/ryo-ma/github-profile-trophy)
 
 
