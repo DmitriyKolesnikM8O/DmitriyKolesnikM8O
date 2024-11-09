@@ -16,7 +16,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 - 👀 interested in programming, backend, computer science, development
-- 🌱 currently learning Golang, C++, Postgres, Microservices and etc.
+- 🌱 currently learning Golang, C++, Postgres, Microservices, etc.
 - 🆔 kolesnik982011@gmail.com
 - 🆔 Telegram: @Frizgy
 - 🍌 Leetcode: https://leetcode.com/u/ProfessionalFromRussia/
