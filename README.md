@@ -25,7 +25,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyKolesnikM8O&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DmitriyKolesnikM8O&repo=FIIT_FA_SP&label=Visitors&color=007ec6&style=flat-square&abbreviated=true)
+![Visitor Count](https://komarev.com/ghpvc/?username=DmitriyKolesnikM8O&repo=DmitriyKolesnikM8O&label=Visitors&color=007ec6&style=flat-square&abbreviated=true)
 <!---
 DmitriyKolesnikM8O/DmitriyKolesnikM8O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
